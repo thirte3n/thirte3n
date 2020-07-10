@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi, I'm Justin! 👋 
+
+I am a self-taught web developer from the Philippines. :philippines: Come check me out at [justingajitos.com](https://www.justingajitos.com/)!
+
 
 <!--
 **thirte3n/thirte3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
