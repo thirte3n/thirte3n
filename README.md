@@ -22,7 +22,7 @@ You can also see more of me on [LinkedIn](https://www.linkedin.com/in/justingaji
 
 ## Projects
 
-* **Magic: The Gathing Companion App** ([demo](http://mtg.justingajitos.com/) | [code](https://github.com/thirte3n/mtg)) - a life counter app for Magic: The Gathering with a log in feature built with *Node.js*, *Express*, *MongoDB* and *Handlebars*
+* **Magic: The Gathing Companion App** (*in early development*) ([demo](http://mtg.justingajitos.com/) | [code](https://github.com/thirte3n/mtg)) - A Magic: The Gathering companion app that lets players track their counters and sync their devices with other players they are in a match with. Built with *Node.js*, *React*, *Express*, and *MongoDB*
 * **Todo MVC** ([demo](http://todo.justingajitos.com/) | [code](https://github.com/thirte3n/todo-mvc)) - a simple todo app with filtering functionality. My own implementation of [TodoMVC](http://todomvc.com/) built with vanilla *JavaScript*
 
 ## GitHub Stats
