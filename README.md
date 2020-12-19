@@ -1,6 +1,6 @@
 # Hi, I'm Justin! 👋
 
-I am a full stack web developer from the Philippines. :philippines: Come check me out [here](https://www.justingajitos.com/)! I'm a self-taught developer who came from an architectural background. From designing buildings to building web apps, my eagerness for learning never stops.
+I am a full stack web developer from the Philippines. :philippines: Come check me out [here](http://www.justingajitos.com/)! I'm a self-taught developer who came from an architectural background. From designing buildings to building web apps, my eagerness for learning never stops.
 
 You can also see more of me on [LinkedIn](https://www.linkedin.com/in/justingajitos/), [Upwork](https://www.upwork.com/o/profiles/users/_~014a9eadcbf1a8866f/), [Codepen](https://codepen.io/thirte3n/), or if you want, you can send me an [email](mailto:admin@justingajitos.com)!
 
